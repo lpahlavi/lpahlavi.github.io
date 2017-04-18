@@ -9,8 +9,8 @@ is_courses: true
  - ECE345 - Algorithms and Data Structures
  - ECE311 - Dynamical Systems and Control
  - ECE411 - Real-time Computer Control
- - [ECE521 - Machine Learning and Inference Algorithms](https://lpahlavi.github.io/ECE521)
  - [ECE470 - Robot Modelling and Control](https://github.com/lpahlavi/ECE470)
+ - [ECE521 - Machine Learning and Inference Algorithms](https://lpahlavi.github.io/ECE521)
  - MAT363 - Geometry of Curves and Surfaces
  - PHY335 - Quantum Mechanics I
  - SLA105 - Elementary Czech
