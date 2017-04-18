@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a third year Electrical Engineering student at the University of Toronto. I am currently doing an internship as a UAV Performance Engineer at [Verity Studios](http://veritystudios.com/).
+I am a third year Electrical Engineering student at the University of Toronto. I am currently doing an internship as a UAV Performance Engineer at [Verity Studios](http://veritystudios.com/) in Zürich, Switzerland.
 
 ## Research Interest
 
