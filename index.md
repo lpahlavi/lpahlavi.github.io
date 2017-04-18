@@ -8,7 +8,7 @@ I am a third year Electrical Engineering student at the University of Toronto. I
 
 <img class="profile-picture" src="sherlock.jpg">
 
-I was born in Montréal and moved to Toronto in 2006. I obtained my Baccalauréat (the French high school diploma) form the [Lycée Français de Toronto](http://lft.ca/) in 2014. At the same time I was an active memeber of my local Air Cadet Squadron ([166 Bulldog RCACS](http://aircadetleague.com/squadron/166bulldog/)) and obtained my glider and private pilot licenses.
+I was born in Montréal and moved to Toronto in 2006. I obtained my Baccalauréat (the French high school diploma) form the [Lycée Français de Toronto](http://lft.ca/) in 2014. At the same time I was an active member of my local Air Cadet Squadron ([166 Bulldog RCACS](http://aircadetleague.com/squadron/166bulldog/)) and obtained my glider and private pilot licenses.
 
 I am now working my way towards obtaining my BASc in Electrical Engineering with a minor in Robotics and Mechatronics at the University of Toronto. During the 2017-2018 academic year I will be working at [Verity Studios](http://veritystudios.com/) in Zürich as part of my [Professional Experience Year (PEY)](http://engineeringcareers.utoronto.ca/internship-programs/pey/) and thus should graduate in 2019.
 
