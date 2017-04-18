@@ -1,11 +1,11 @@
 - name: "Contact"
   link: "contact"
 
+- name: "Courses"
+  link: "courses"
+
 - name: "Resume"
   link: "resume.pdf"
 
 - name: "About"
   link: "index"
-  
-- name: "Courses"
-  link: "courses"
