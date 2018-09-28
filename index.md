@@ -2,15 +2,15 @@
 layout: default
 ---
 
-I am a third year Electrical Engineering student at the University of Toronto. I am currently doing an internship as a UAV Performance Engineer at [Verity Studios](http://veritystudios.com/) in Zürich.
+I am a fourth year Electrical and Computer Engineering student at the University of Toronto. I recently came back from Switzerland where I completed an internship as a Systems and Control Engineering Intern at [Verity Studios](http://veritystudios.com/) in Zürich.
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me.jpg">
 
 I was born in Montréal and moved to Toronto in 2006. I obtained my Baccalauréat (the French high school diploma) form the [Lycée Français de Toronto](http://lft.ca/) in 2014. At the same time I was an active member of my local Air Cadet Squadron ([166 Bulldog RCACS](http://aircadetleague.com/squadron/166bulldog/)) and obtained my glider and private pilot licenses.
 
-I am now working my way towards obtaining my BASc in Electrical Engineering with a minor in Robotics and Mechatronics at the University of Toronto. During the 2017-2018 academic year I will be working at [Verity Studios](http://veritystudios.com/) in Zürich as part of my [Professional Experience Year (PEY)](http://engineeringcareers.utoronto.ca/internship-programs/pey/) and thus should graduate in 2019.
+I am now working my way towards obtaining my BASc in Electrical and Computer Engineering with a minor in Robotics and Mechatronics at the University of Toronto. During the 2017-2018 academic year spent a year working at [Verity Studios](http://veritystudios.com/) in Zürich as part of my [Professional Experience Year (PEY)](http://engineeringcareers.utoronto.ca/internship-programs/pey/) and am now in my final year. I should thus graduate in the spring of 2019.
 
 ---
 
@@ -20,7 +20,7 @@ Jean le Rond d'Alembert
 
 ## Research Interest
 
-I am interested in the areas of control theory, robotics and machine learning. My preferred areas of research are mathematical in nature.
+I am interested in the areas of control theory and robotics. My preferred areas of research are generally mathematical in nature but I am also interested in the computational aspect of robotics.
 
 ## Other Interests
 
