@@ -2,6 +2,12 @@
 layout: default
 is_courses: true
 ---
+# Fourth Year
+ - ECE320 - Fields and Waves
+ - ECE361 - Computer Networks I
+ - ECE410 - Control Systems
+ - ECE537 - Random Processes
+ - ECE496 - Capstone
 
 # Third Year
  - APM384 - Partial Differential Equations
