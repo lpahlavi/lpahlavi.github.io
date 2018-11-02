@@ -3,6 +3,7 @@ layout: default
 is_courses: true
 ---
 # Fourth Year
+ - CSC336 - Numerical Methods
  - ECE320 - Fields and Waves
  - ECE361 - Computer Networks I
  - ECE410 - Linear Control Systems
@@ -10,15 +11,14 @@ is_courses: true
  - ECE472 - Engineering Economic Analysis and Entrepreneurship
  - ECE496 - Capstone
  - ECE537 - Random Processes
- - CSC336 - Numerical Methods
  - FCS195 - Napoleon to Asterix
  - HPS250 - Introduction to Philosophy of Science
 
 # Third Year
  - APM384 - Partial Differential Equations
  - ECE302 - Probability
- - ECE345 - Algorithms and Data Structures
  - ECE311 - Dynamical Systems and Control
+ - ECE345 - Algorithms and Data Structures
  - ECE411 - Real-time Computer Control
  - [ECE470 - Robot Modelling and Control](https://github.com/lpahlavi/ECE470)
  - [ECE521 - Machine Learning and Inference Algorithms](https://lpahlavi.github.io/ECE521)
